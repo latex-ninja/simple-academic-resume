@@ -6,3 +6,6 @@ Repo to share the template for the Simple Academic CV Template.
 These images are in the CV just for demonstration.
 Please replace them with your own photos and logos if you use this template!
 
+# Preview 
+![Simple Academic CV](https://github.com/latex-ninja/hipster-cv/blob/master/previews/academic-cvs.png)
+
